@@ -23,7 +23,7 @@ This project is a simple command-line calculator built in Java. It was created a
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/java-console-calculator.git
+    git clone https://github.com/rishabhverma24/java-console-calculator.git
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -31,9 +31,9 @@ This project is a simple command-line calculator built in Java. It was created a
     ```
 3.  Compile the Java code:
     ```bash
-    javac src/Calculator.java
+    javac Calculator.java
     ```
 4.  Run the compiled program:
     ```bash
-    java -cp src Calculator
+    java -cp Calculator
     ```
